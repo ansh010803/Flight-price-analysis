@@ -55,7 +55,7 @@ An executive summary dashboard is automatically generated using Python. It highl
 ## VISUALIZATIONS
 
 ### AVERAGE FLIGHT PRICE
-![average flight price](output/average flight price.png)
+![average flight price](output/average_flight_price.png)
 
 ### FLIGHT COMPARSION 
-![flight comparsion](output/flight comparsion.png)
+![flight comparsion](output/flight_comparsion.png)
